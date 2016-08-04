@@ -21,6 +21,7 @@ public class JavaApplication2 {
     public static void main(String[] args) {
         float anynumber = 0;
         float anynumber2 = 0;
+        int anynumber3 = 0;
         // TODO code application logic here
     }
     
